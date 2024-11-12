@@ -129,6 +129,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+post-tits-env/
 
 # Spyder project settings
 .spyderproject
@@ -162,4 +163,3 @@ cython_debug/
 #.idea/
 
 .serverless
-./post-tits-env
